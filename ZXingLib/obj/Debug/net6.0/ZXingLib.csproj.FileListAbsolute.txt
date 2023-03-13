@@ -1,0 +1,12 @@
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\bin\Debug\net6.0\ZXingLib.deps.json
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\bin\Debug\net6.0\ZXingLib.dll
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\bin\Debug\net6.0\ZXingLib.pdb
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.csproj.AssemblyReference.cache
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.AssemblyInfoInputs.cache
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.AssemblyInfo.cs
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.csproj.CoreCompileInputs.cache
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.dll
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\refint\ZXingLib.dll
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ZXingLib.pdb
+E:\develop\VS_Workspace\ColorZXing.TEST\ZXingLib\obj\Debug\net6.0\ref\ZXingLib.dll
